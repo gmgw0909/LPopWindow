@@ -17,7 +17,8 @@ import android.view.WindowManager;
 import android.widget.PopupWindow;
 
 /**
- * 描述：自定义PopWindow类，封装了PopWindow的一些常用属性，用Builder模式支持链式调用（如同OkHttp中OkHttpClient构造方式）
+ * 描述：自定义PopWindow类，封装了PopWindow的一些常用属性，
+ * 用Builder模式支持链式调用（如同OkHttp中OkHttpClient构造方式）
  * 创建者：  LeeBoo
  * 创建时间：2016/10/14
  */
