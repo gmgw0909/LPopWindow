@@ -1,4 +1,4 @@
-package com.leeboo.lpopwindow;
+package com.leeboo.library;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
