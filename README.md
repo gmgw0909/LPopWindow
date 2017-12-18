@@ -18,7 +18,7 @@
 2. Add the dependency
 ```java
 dependencies {
-	compile 'com.github.gmgw0909:LPopWindow:1.0.0'
+	compile 'com.github.gmgw0909:LPopWindow:2.0.0'
 }
 ```
 
